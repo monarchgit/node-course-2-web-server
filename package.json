@@ -8,7 +8,8 @@
     "start":"node server.js"
   },
   "scriptsComment": {
-    "start": "heroku uses this to launch when deployed. run locally by doing npm start"
+    "start": "heroku uses this to launch when deployed. run locally by doing npm start",
+      "test":"run automated testing"
   },
   "author": "",
   "license": "ISC",
